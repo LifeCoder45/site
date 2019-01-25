@@ -4,57 +4,71 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <link rel="stylesheet" href="styles/main.css" />
-    <title>Site Title</title>
+    <title>Dev, Inc</title>
 </head>
 
 <body>
     <header>
-        <span id="site-title">An Unnamed Site</span><br />
-        <span id="site-sub-title">Developing all the things</span>
+        <span id="site-title">Dev, Inc</span><br />
+        <span id="site-sub-title">Develop all the things</span>
     </header>
 
     <nav>
-        <a href="#">Home</a> • 
-        <a href="#">GD Resources</a> • 
-        <a href="#">Blogroll</a> • 
-        <a href="#">Contact</a> • 
-        <a href="#">About</a>
+        <span class="menu-item">
+            <a href="#">Home</a><span class="menu-bullet"> • </span>
+        </span>
+        <span class="menu-item">
+            <a href="#">GD Resources</a><span class="menu-bullet"> • </span>
+        </span>
+        <span class="menu-item">
+            <a href="#">Neat Links</a><span class="menu-bullet"> • </span>
+        </span>
+        <span class="menu-item">
+            <a href="#">Contact</a><span class="menu-bullet"> • </span>
+        </span>
+        <span class="menu-item">
+            <a href="#">About</a>
+        </span>
     </nav>
 
-    <table>
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Category</th>
-                <th>Title</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td class="nowrap">2019-01-26</td>
-                <td class="nowrap"><a href="/maths/index.html">Maths</a></td>
-                <td><a href="/maths/a-different-post/index.html">A Different Post</a></td>                
-            </tr>
-            <tr>
-                <td class="nowrap">2018-11-03</td>
-                <td class="nowrap"><a href="/other/index.html">Other</a></td>
-                <td><a href="/other/this-post-has-a-really-long-title-it-seems/index.html">This Post Has A Really Long Title It Seems!</a></td>                
-            </tr>
-            <tr>
-                <td class="nowrap">2018-06-12</td>
-                <td class="nowrap"><a href="/unity/index.html">Unity</a></td>
-                <td><a href="/unity/some-post-title-here/index.html">Some Post Title Here</a></td>                
-            </tr>
-            <tr>
-                <td class="nowrap">2018-01-01</td>
-                <td class="nowrap"><a href="/meta/index.html">Meta</a></td>
-                <td><a href="/meta/why-now/index.html">Why Now?</a></td>                
-            </tr>
-        </tbody>
-    </table>
+    <div id="content">
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Category</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="nowrap">2019-01-26</td>
+                    <td class="nowrap"><a href="/maths/index.html">Maths</a></td>
+                    <td><a href="/maths/a-different-post/index.html">A Different Post</a></td>                
+                </tr>
+                <tr>
+                    <td class="nowrap">2018-11-03</td>
+                    <td class="nowrap"><a href="/other/index.html">Other</a></td>
+                    <td><a href="/other/this-post-has-a-really-long-title-it-seems/index.html">This Post Has A Really Long Title It Seems!</a></td>                
+                </tr>
+                <tr>
+                    <td class="nowrap">2018-06-12</td>
+                    <td class="nowrap"><a href="/unity/index.html">Unity</a></td>
+                    <td><a href="/unity/some-post-title-here/index.html">Some Post Title Here</a></td>                
+                </tr>
+                <tr>
+                    <td class="nowrap">2018-01-01</td>
+                    <td class="nowrap"><a href="/meta/index.html">Meta</a></td>
+                    <td><a href="/meta/why-now/index.html">Why Now?</a></td>                
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
     <footer>
-        © 20XX Josh O'Neal • <a href="http://fabiensanglard.net/bloated/index.html">Not Bloated</a>
+        © 20XX Josh O'Neal • 
+        <a href="https://github.com/LifeCoder45/site" target="_blank">Source</a> • 
+        <a href="http://fabiensanglard.net/bloated/index.html">Not Bloated</a>
     </footer>
 </body>
 
