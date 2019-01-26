@@ -60,18 +60,21 @@ span#site-sub-title {
     /* placeholder */
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     span#site-title {
-        font-size: calc(var(--font-size-title) - 3pt);
+        font-size: calc(var(--font-size-title) - 2pt);
     }
     body, table, pre {
-        font-size: calc(var(--font-size-normal) - 3pt);
+        font-size: calc(var(--font-size-normal) - 2pt);
     }
     nav {
-        text-align: left;
+        /* text-align: left; */
     }
-    span.menu-item:after {
-        content: "\A";
+    span.menu-item:before {
+        /* content: "»"; */
+    }
+    span.menu-item:after, span#copyright {
+        content: "«\A";
         white-space: pre;
     }
     span.menu-bullet {
