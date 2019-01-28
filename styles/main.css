@@ -1,8 +1,9 @@
 :root {
     --dark-color: #2B2B2B;
     --light-color: #D5D5D5;
-    --font-size-title: 15pt;
+    --font-size-title: 18pt;
     --font-size-normal: 13pt;
+    --font-size-normal: 11pt;
 }
 body {
     max-width: 1000px;
@@ -57,7 +58,24 @@ span#site-title {
     font-weight: bold;
 }
 span#site-sub-title {
-    /* placeholder */
+    font-size: var(--font-size-small);
+}
+h1 {
+    margin: 0 0 60px 0;
+    font-size: calc(var(--font-size-normal) + 7pt);
+    border-bottom: 1px solid var(--dark-color);    
+}
+h2 {
+    margin: 0 0 30px 0;
+    border-bottom: 1px solid var(--dark-color);    
+}
+div.resource-list-item span {
+    float: right;
+    font-weight: bold;
+}
+div.resource-list-item p {
+    padding-left: 15px;
+    border-left: 3px solid var(--light-color);    
 }
 
 @media (max-width: 600px) {
