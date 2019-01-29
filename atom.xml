@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Dev, Inc Feed</title>
+  <title>Develop Everything Atom Feed</title>
   <link href="https://www.joshoneal.me/"/>
-  <updated>2019-01-26T12:30:00Z</updated>
+  <updated>2019-01-30T12:00:00Z</updated>
   <author>
     <name>Josh O'Neal</name>
   </author>
@@ -13,11 +13,19 @@
   <!--
   <entry>
     <title>TITLE</title>
-    <link href="https://www.joshoneal.me/LINK.html"/>
-    <id>urn:uuid:{python3 -c "import uuid; print(uuid.uuid4())"}</id>
-    <updated>2000-01-01T00:00:00Z</updated>
+    <link href="https://www.joshoneal.me/LINK"/>
+    <id>urn:uuid:{python3 -c "import uuid; print(uuid.uuid4())" | pbcopy}</id>
+    <updated>2019-01-01T12:00:00Z</updated>
     <summary>SUMMARY</summary>
   </entry>
   -->
 
+  <entry>
+    <title>Why Now?</title>
+    <link href="https://www.joshoneal.me/meta/why-now/"/>
+    <id>urn:uuid:26ff961d-5a6c-4193-8d7a-3fca1c4e44ff</id>
+    <updated>2019-01-30T12:00:00Z</updated>
+    <summary>Develop Everything's inaugural post, introducing the site and what's to come.</summary>
+  </entry>
+  
 </feed>

@@ -7,7 +7,7 @@
 }
 body {
     max-width: 1000px;
-    padding: 0 3ch 0 3ch;
+    padding: 0 5ch 0 5ch;
     font-family: Courier, monospace;
     font-size: var(--font-size-normal);
     color: var(--dark-color);
@@ -73,7 +73,15 @@ h1 {
 }
 h2 {
     margin: 0 0 30px 0;
+    font-size: var(--font-size-title);
     border-bottom: 1px solid var(--dark-color);    
+}
+span.post-date {
+    float:right;
+}
+h2.resource-list-category a {
+    float:right; 
+    text-decoration:none;
 }
 div.resource-list-item {
     margin-bottom:24px;
@@ -91,7 +99,7 @@ div.resource-list-item p {
 }
 
 @media (max-width: 600px) {
-    span#site-title {
+    span#site-title, h1, h2 {
         font-size: calc(var(--font-size-title) - 2pt);
     }
     body, table, pre {

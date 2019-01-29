@@ -1,4 +1,4 @@
-This is the source code for my [personal site](http://joshoneal.me/).
+This is the source code for my [personal site](https://www.joshoneal.me/).
 
 I have been inspired by Fabien Sanglard's [fantastic post](https://fabiensanglard.net/bloated/index.html) on super fast, non-bloated websites, and have decided to revive my site for the 3rd or 4th time.
 
