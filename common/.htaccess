@@ -1,0 +1,3 @@
+# Obviously all of this stuff is open source, not secret,
+# but I don't want this getting crawled or indexed oddly.
+Deny from all

@@ -8,7 +8,7 @@
 body {
     max-width: 1000px;
     padding: 0 3ch 0 3ch;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Courier, monospace;
     font-size: var(--font-size-normal);
     color: var(--dark-color);
     margin: 0 auto;
@@ -45,6 +45,12 @@ th {
     text-align: left;
     border-bottom: 1px solid var(--dark-color);
 }
+th.post-header-date {
+    width: 120px;
+}
+th.post-header-category {
+    width: 120px;
+}
 td {
     padding: 8px 18px 0 0;
     text-align: left;
@@ -62,12 +68,18 @@ span#site-sub-title {
 }
 h1 {
     margin: 0 0 60px 0;
-    font-size: calc(var(--font-size-normal) + 7pt);
+    font-size: var(--font-size-title);
     border-bottom: 1px solid var(--dark-color);    
 }
 h2 {
     margin: 0 0 30px 0;
     border-bottom: 1px solid var(--dark-color);    
+}
+div.resource-list-item {
+    margin-bottom:24px;
+}
+div.resource-list-item a {
+    word-break: break-all;
 }
 div.resource-list-item span {
     float: right;

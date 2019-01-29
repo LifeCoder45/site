@@ -1,4 +1,8 @@
-# Canonical https/www
+# Redirect 404 & 500 errors
+ErrorDocument 404 /error/
+ErrorDocument 500 /error/
+
+# Force HTTPS & www.
 <IfModule mod_rewrite.c>
 	RewriteCond %{HTTPS} off [OR]
 	RewriteCond %{HTTP_HOST} !^www\. [NC]
