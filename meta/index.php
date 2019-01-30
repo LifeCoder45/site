@@ -25,7 +25,7 @@
             </tr>
             -->
             <tr>
-                <td class="nowrap">2018-01-01</td>
+                <td class="nowrap">2019-01-29</td>
                 <td><a href="/meta/why-now/">Why Now?</a></td>                
             </tr>
         </tbody>
