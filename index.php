@@ -3,7 +3,7 @@
 
     Utils::print_header(
         "Develop Everything",
-        "Develop Everything - The Personal Site of Josh O'Neal"
+        "The Personal Site of Josh O'Neal"
     );
 ?>
 

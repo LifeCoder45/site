@@ -4,7 +4,7 @@ I have been inspired by Fabien Sanglard's [fantastic post](https://fabiensanglar
 
 To stay blazing fast, I will not be using any CMS or platform, just handrolling all of the content in VS Code, after accumulating ideas in my Evernote scratch pad.
 
-At least initially I'll be using no database for this, and no required Javascript on the front end. I think the only thing that may make me change that approach is if maintaining the category listing pages and the Atom feed file (coming eventually) is too painful.
+At least initially I'll be using no database for this, and no required Javascript on the front end. I think the only thing that may make me change that approach is if maintaining the category listing pages and the Atom feed file is too painful.
 
 For analytics, I'll be trying out [Simple Analytics](https://simpleanalytics.io/), which is paid, but proclaims "I'm a solo developer who wants to build an actual privacy-first product. I'm very grateful to my users, who are making this possible. Thank you!". I hope my visitors are alright with this option over the more questionable Google Analytics, understanding that I'd like to get some traffic metrics. Anyone who is already blocking Javascript should be able to circumvent it just fine though, and still have a great experience.
 
