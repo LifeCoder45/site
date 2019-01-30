@@ -130,13 +130,15 @@
     <div class="resource-list-item">
         <a href="https://old.reddit.com/r/gamedev/comments/8rvlm9/timelapse_video_of_how_i_make_2d_graphic_assets/">https://old.reddit.com/r/gamedev/comments/8rvlm9/timelapse_video_of_how_i_make_2d_graphic_assets/</a>
         <p>
-            A timelapse video on how someone makes 2D prototypes.
+            A timelapse video in which someone makes 2D prototype assets.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://mobile.twitter.com/Pixel_Dailies">https://mobile.twitter.com/Pixel_Dailies</a>
         <p>
-            A Twitter account that posts a daily theme for its followers to create pixel art on.
+            This is a really neat Twitter account that posts a daily topic that followers create a pixel art piece for. 
+            <br /><br />
+            Very inspiring to see a spectrum of skills and interpretations.
         </p>
     </div>
     <div class="resource-list-item">
@@ -223,6 +225,8 @@
         <a href="https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/">https://blogs.unity3d.com/2015/01/07/a-primer-on-repeatable-random-numbers/</a>
         <p>
             An article discussing using pseudorandom numbers in games.
+            <br /><br />
+            Think things like Minecraft seeds, and so on.
         </p>
     </div>
     <br />
@@ -234,7 +238,7 @@
         <p>
             Handmade Hero is "an ongoing project to create a complete, professional-quality game accompanied by videos that explain every single line of its source code."
             <br /><br />
-            This seems interesting due to the nature of it being the entire source for a completed game, a theme common in some of this items.
+            This seems interesting due to the nature of it being the entire source for a completed game.
         </p>
     </div>
     <div class="resource-list-item">
@@ -275,6 +279,12 @@
             The source code for the 1999 PC version of Monopoly.
         </p>
     </div>
+    <div class="resource-list-item">
+        <a href="https://github.com/jmechner/Prince-of-Persia-Apple-II">https://github.com/jmechner/Prince-of-Persia-Apple-II</a>
+        <p>
+            This is the source code for the legendary Prince of Persia, for the Apple ][.
+        </p>
+    </div>
     <br />
 
     <!-- Post-Mortems & Documentaries -->
@@ -282,19 +292,19 @@
     <div class="resource-list-item">
         <a href="https://old.reddit.com/r/gamedev/comments/a9o6fi/">https://old.reddit.com/r/gamedev/comments/a9o6fi/</a>
         <p>
-            A mini documentary made by the developers of a game called "Witch".
+            A mini documentary made by the developers of a game called <a href="http://www.witchrpg.com/">Witch</a>.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="http://gamasutra.com/view/news/313737/Video_Developing_Rogue_Legacy_on_a_budget.php">http://gamasutra.com/view/news/313737/Video_Developing_Rogue_Legacy_on_a_budget.php</a>
         <p>
-            A video on developing Rogue Legacy on a budget.
+            A video on developing <a href="http://www.cellardoorgames.com/roguelegacy/">Rogue Legacy</a> on a budget.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://m.youtube.com/user/PowerhoofTV/">https://m.youtube.com/user/PowerhoofTV/</a>
         <p>
-            The YouTube channel for the company that made Crawl, has some videos about developing the game.
+            The YouTube channel for the company that made <a href="http://www.powerhoof.com/crawl/">Crawl</a>, has some videos about developing the game.
         </p>
     </div>
     <div class="resource-list-item">
@@ -352,19 +362,19 @@
     <div class="resource-list-item">
         <a href="https://www.windowscentral.com/enter-gungeon-interview">https://www.windowscentral.com/enter-gungeon-interview</a>
         <p>
-            An interview with the developers of Enter the Gungeon.
+            An interview with the developers of <a href="http://dodgeroll.com/gungeon/">Enter the Gungeon</a>.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://old.reddit.com/r/StardewValley/comments/4b8s7v/im_concernedape_developer_of_stardew_valley_ask/">https://old.reddit.com/r/StardewValley/comments/4b8s7v/im_concernedape_developer_of_stardew_valley_ask/</a>
         <p>
-            A Reddit AMA with Concerned Ape / Eric Barone, the sole developer of Stardew Valley.
+            A Reddit AMA with Concerned Ape / Eric Barone, the sole developer of <a href="https://www.stardewvalley.net/">Stardew Valley</a>.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://old.reddit.com/r/nintendo/comments/75ag0g/im_concernedape_creator_of_stardew_valley_ask_me/">https://old.reddit.com/r/nintendo/comments/75ag0g/im_concernedape_creator_of_stardew_valley_ask_me/</a>
         <p>
-            Another Stardew Valley AMA.
+            Another <a href="https://www.stardewvalley.net/">Stardew Valley</a> AMA.
         </p>
     </div>
     <div class="resource-list-item">
@@ -410,19 +420,19 @@
     <div class="resource-list-item">
         <a href="http://www.gamasutra.com/blogs/JakeCarfagno/20190114/334256/MAGFest_2019__A_Student_Devs_Experience.php">http://www.gamasutra.com/blogs/JakeCarfagno/20190114/334256/MAGFest_2019__A_Student_Devs_Experience.php</a>
         <p>
-            A writeup by a student dev that exhibited his game at <a href="https://www.magfest.org/">MagFest</a> (amazing conference, highly recommend!).
+            A writeup by a student dev that exhibited his game at <a href="https://www.magfest.org/">MagFest</a> (which is an amazing conference that I highly recommend).
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://en.wikipedia.org/wiki/Simplex_noise">https://en.wikipedia.org/wiki/Simplex_noise</a>
         <p>
-            Wikipedia article on Simplex Noise.
+            The Wikipedia article on Simplex Noise.
         </p>
     </div>
     <div class="resource-list-item">
         <a href="https://en.wikipedia.org/wiki/Perlin_noise">https://en.wikipedia.org/wiki/Perlin_noise</a>
         <p>
-            Wikipedia article on Perlin Noise.
+            The Wikipedia article on Perlin Noise.
         </p>
     </div>
     <div class="resource-list-item">

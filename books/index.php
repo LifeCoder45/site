@@ -14,7 +14,7 @@ https://www.amazon.com/Reverse-Design-Super-Mario-World/dp/113832325X/
 <div id="content">
     <h1>Suggested Reading</h1>
     <p>
-        I don't have nearly as much time to read books as I'd like nowadays, but I do have a few that I keep seeming to come back to.
+        I don't have nearly as much time to read books as I'd like nowadays, but I do have a few that I seem to keep coming back to.
     </p> 
     <p>
         In the future, if I read something really good, or if I find myself rereading something, again, I'll add it to this list, in hopes that some readers can discover something new and neat.
@@ -77,7 +77,7 @@ https://www.amazon.com/Reverse-Design-Super-Mario-World/dp/113832325X/
     <div class="resource-list-item">
         <a href="https://www.amazon.com/Dice-Men-Dungeons-Dragons-People/dp/145164051X/">Of Dice and Men: The Story of Dungeons & Dragons and The People Who Play It</a>
         <p>
-            It's been a while since I've read through Of Dice and Men, but it's a great read. Now that D&D has essentially become mainstream, learning about its roots with Gary Gygax and Gen Con.
+            It's been a while since I've read through Of Dice and Men, but it's a great read.  D&D is a game that has fundamentally changed the world, so learning about its roots with Gary Gygax and Gen Con is quite enjoyable.
         </p>
     </div>
     <br />
@@ -94,7 +94,7 @@ https://www.amazon.com/Reverse-Design-Super-Mario-World/dp/113832325X/
     <div class="resource-list-item">
         <a href="https://www.amazon.com/Neuromancer-William-Gibson/dp/0441569595/">Neuromancer</a>
         <p>
-            One of the first pieces of cyberpunk fiction I read, the first book in the trilogy that includes Count Zero and Mona Lisa Overdrive, it is outstanding, and has inspired tons of dystopian fiction that came after it.
+            One of the first pieces of cyberpunk fiction I read, the first book in a trilogy that includes Count Zero and Mona Lisa Overdrive. It is simply outstanding, and has inspired tons of dystopian fiction that came after it.
         </p>
     </div>
     <div class="resource-list-item">

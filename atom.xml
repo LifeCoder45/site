@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Develop Everything Atom Feed</title>
+  <title>Develop Everything</title>
   <link href="https://www.joshoneal.me/"/>
-  <updated>2019-01-30T12:00:00Z</updated>
+  <icon>https://t4.rbxcdn.com/05a14deb111edc3cd6e4045205583d36</icon>
   <author>
     <name>Josh O'Neal</name>
   </author>
   <id>urn:uuid:a65f4d7b-d38c-4d4f-b8cc-6954b3bd3921</id>
+  <!-- python3 -c "import datetime; print(datetime.datetime.utcnow().isoformat()[:-9] + '00Z')" | pbcopy -->
+  <updated>2019-01-30T02:24:00Z</updated>
 
   <!-- Template -->
   <!--
@@ -24,7 +26,7 @@
     <title>Why Now?</title>
     <link href="https://www.joshoneal.me/meta/why-now/"/>
     <id>urn:uuid:26ff961d-5a6c-4193-8d7a-3fca1c4e44ff</id>
-    <updated>2019-01-30T12:00:00Z</updated>
+    <updated>2019-01-30T02:24:00Z</updated>
     <summary>Develop Everything's inaugural post, introducing the site and what's to come.</summary>
   </entry>
   

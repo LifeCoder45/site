@@ -8,9 +8,9 @@
 ?>
 
 <div id="content">
-    <h2>A bit about myself</h2>
+    <h2>A Bit About Myself</h2>
     <p>
-        My name is Josh O'Neal, and I'm a Senior Software Architect.
+        My name is Josh O'Neal, and I'm currently a Senior Software Architect, previously a Principal Xamarin Architect.
     </p>
     <p>
         I've been developing software since around 2008, starting with PHP, then making my way over to mobile when iOS and Android were fresh young platforms.
@@ -25,11 +25,11 @@
         I've also recently (finally) put in the time to learn Swift, and am currently working on learning Unity 2D - I think it'd be awesome to start writing some little games.
     </p>
     <p>
-        Speaking of games, my degree is <i>technically</i> in 3D Graphics Programming, but I've never used it professionally. I also collect video games, especially older boxed ones. In the future, I may write about my modest collection, for now, it's cataloged here on <a href="https://www.completionator.com/Community/Profile/11804">Completionator</a>.        
+        Speaking of games, my degree is <i>technically</i> in 3D Graphics Programming, but I've never used it professionally. I also collect video games, especially older boxed ones. In the future, I may write a bit about my modest collection.       
     </p> 
     <br />
     
-    <h2>Why does this site look <i>old</i>?</h2>
+    <h2>Why Does This Site Look <i>Old</i>?</h2>
     <p>
         Maybe "old" is the wrong word, but this site is definitely not what is being mass produced here in 2019. My goal is for it to be extremely simple, very light, and blazing fast. It has no Javascript libraries, isn't a single page app, and has no backing database.
     </p>
@@ -44,7 +44,7 @@
     </p>
     <br />
 
-    <h2>What will I write about?</h2>
+    <h2>What Will I Write About?</h2>
     <p>
         I plan on writing about everything, really. Mostly relating to various development topics (hence the title - Develop Everything).
     </p>

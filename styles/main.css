@@ -12,7 +12,7 @@ body {
     font-size: var(--font-size-normal);
     color: var(--dark-color);
     margin: 0 auto;
-    background: #F6F6EF;
+    background: #F5F5F5;
 }
 header {
     margin-top: 30px;
@@ -67,7 +67,7 @@ span#site-sub-title {
     font-size: var(--font-size-small);
 }
 h1 {
-    margin: 0 0 60px 0;
+    margin: 0 0 40px 0;
     font-size: var(--font-size-title);
     border-bottom: 1px solid var(--dark-color);    
 }
@@ -76,8 +76,11 @@ h2 {
     font-size: var(--font-size-title);
     border-bottom: 1px solid var(--dark-color);    
 }
-span.post-date {
-    float:right;
+p#post-datetime {
+    margin-bottom: 0;
+}
+p#post-category {
+    margin: 5px 0 40px 0;
 }
 h2.resource-list-category a {
     float:right; 
@@ -86,7 +89,7 @@ h2.resource-list-category a {
 div.resource-list-item {
     margin-bottom:24px;
 }
-div.resource-list-item a {
+div.resource-list-item > a {
     word-break: break-all;
 }
 div.resource-list-item span {
