@@ -9,7 +9,7 @@
   </author>
   <id>urn:uuid:a65f4d7b-d38c-4d4f-b8cc-6954b3bd3921</id>
   <!-- python3 -c "import datetime; print(datetime.datetime.utcnow().isoformat()[:-9] + '00Z')" | pbcopy -->
-  <updated>2019-01-30T02:24:00Z</updated>
+  <updated>2019-07-13T23:01:00Z</updated>
 
   <!-- Template -->
   <!--
@@ -22,6 +22,13 @@
   </entry>
   -->
 
+  <entry>
+    <title>How to Find the iOS Simulator's Database</title>
+    <link href="https://www.joshoneal.me/xamarin/ios-sqlite-database/"/>
+    <id>urn:uuid:d1cb08fa-b23c-4c66-b2a8-a63de55292ce</id>
+    <updated>2019-07-13T23:01:00Z</updated>
+    <summary>How to find your iOS application's database directory, when using the Simulator.</summary>
+  </entry>
   <entry>
     <title>Why Now?</title>
     <link href="https://www.joshoneal.me/meta/why-now/"/>
