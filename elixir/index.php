@@ -26,7 +26,6 @@
             -->
             <tr>
                 <td class="nowrap">2020-05-13</td>
-                <td class="nowrap"><a href="/elixir/">Elixir</a></td>
                 <td><a href="/elixir/why-elixir/">Why Elixir</a></td>                
             </tr>
         </tbody>
