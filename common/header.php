@@ -24,6 +24,9 @@
             <a href="/">Home</a><span class="menu-bullet"> • </span>
         </span>
         <span class="menu-item">
+            <a href="/elixir-dev/">Elixir Dev</a><span class="menu-bullet"> • </span>
+        </span>
+        <span class="menu-item">
             <a href="/game-dev/">Game Dev</a><span class="menu-bullet"> • </span>
         </span>
         <span class="menu-item">
